@@ -1,2 +1,2 @@
 # group-work
-campus advisor module3 exercises
+Campus Advisor Module3 Exercises
