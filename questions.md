@@ -1,3 +1,3 @@
-* How git pull works?
+# Questions
 
-* What's the different between pull and fetch?
+* What's the different between pull request and fetch?
